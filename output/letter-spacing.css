@@ -1,0 +1,132 @@
+/* letter-spacing.css
+-----------------------------------------------------------------
+This file was generated automatically by CSS Helpers Builder Tool
+Licence: MIT
+Author: Carlos Maldonado @choquo
+Build date: 2017-08-08
+*/
+
+.ls0,.ls0-lg{ letter-spacing: 0px !important; }
+.ls1,.ls1-lg{ letter-spacing: 1px !important; }
+.ls2,.ls2-lg{ letter-spacing: 2px !important; }
+.ls3,.ls3-lg{ letter-spacing: 3px !important; }
+.ls4,.ls4-lg{ letter-spacing: 4px !important; }
+.ls5,.ls5-lg{ letter-spacing: 5px !important; }
+.ls6,.ls6-lg{ letter-spacing: 6px !important; }
+.ls7,.ls7-lg{ letter-spacing: 7px !important; }
+.ls8,.ls8-lg{ letter-spacing: 8px !important; }
+.ls9,.ls9-lg{ letter-spacing: 9px !important; }
+.ls10,.ls10-lg{ letter-spacing: 10px !important; }
+.ls11,.ls11-lg{ letter-spacing: 11px !important; }
+.ls12,.ls12-lg{ letter-spacing: 12px !important; }
+.ls13,.ls13-lg{ letter-spacing: 13px !important; }
+.ls14,.ls14-lg{ letter-spacing: 14px !important; }
+.ls15,.ls15-lg{ letter-spacing: 15px !important; }
+.ls16,.ls16-lg{ letter-spacing: 16px !important; }
+.ls17,.ls17-lg{ letter-spacing: 17px !important; }
+.ls18,.ls18-lg{ letter-spacing: 18px !important; }
+.ls19,.ls19-lg{ letter-spacing: 19px !important; }
+.ls20,.ls20-lg{ letter-spacing: 20px !important; }
+
+/* MD Tablet, ipad portrait*/
+/*@media only screen and (max-width : 992px){*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { 
+	.ls0-md{ letter-spacing: 0px !important; }
+	.ls1-md{ letter-spacing: 1px !important; }
+	.ls2-md{ letter-spacing: 2px !important; }
+	.ls3-md{ letter-spacing: 3px !important; }
+	.ls4-md{ letter-spacing: 4px !important; }
+	.ls5-md{ letter-spacing: 5px !important; }
+	.ls6-md{ letter-spacing: 6px !important; }
+	.ls7-md{ letter-spacing: 7px !important; }
+	.ls8-md{ letter-spacing: 8px !important; }
+	.ls9-md{ letter-spacing: 9px !important; }
+	.ls10-md{ letter-spacing: 10px !important; }
+	.ls11-md{ letter-spacing: 11px !important; }
+	.ls12-md{ letter-spacing: 12px !important; }
+	.ls13-md{ letter-spacing: 13px !important; }
+	.ls14-md{ letter-spacing: 14px !important; }
+	.ls15-md{ letter-spacing: 15px !important; }
+	.ls16-md{ letter-spacing: 16px !important; }
+	.ls17-md{ letter-spacing: 17px !important; }
+	.ls18-md{ letter-spacing: 18px !important; }
+	.ls19-md{ letter-spacing: 19px !important; }
+	.ls20-md{ letter-spacing: 20px !important; }
+}
+
+/* SM Tablet, ipad landscape*/ 
+/*@media only screen and (max-width : 768px){*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.ls0-sm{ letter-spacing: 0px !important; }
+	.ls1-sm{ letter-spacing: 1px !important; }
+	.ls2-sm{ letter-spacing: 2px !important; }
+	.ls3-sm{ letter-spacing: 3px !important; }
+	.ls4-sm{ letter-spacing: 4px !important; }
+	.ls5-sm{ letter-spacing: 5px !important; }
+	.ls6-sm{ letter-spacing: 6px !important; }
+	.ls7-sm{ letter-spacing: 7px !important; }
+	.ls8-sm{ letter-spacing: 8px !important; }
+	.ls9-sm{ letter-spacing: 9px !important; }
+	.ls10-sm{ letter-spacing: 10px !important; }
+	.ls11-sm{ letter-spacing: 11px !important; }
+	.ls12-sm{ letter-spacing: 12px !important; }
+	.ls13-sm{ letter-spacing: 13px !important; }
+	.ls14-sm{ letter-spacing: 14px !important; }
+	.ls15-sm{ letter-spacing: 15px !important; }
+	.ls16-sm{ letter-spacing: 16px !important; }
+	.ls17-sm{ letter-spacing: 17px !important; }
+	.ls18-sm{ letter-spacing: 18px !important; }
+	.ls19-sm{ letter-spacing: 19px !important; }
+	.ls20-sm{ letter-spacing: 20px !important; }
+}
+
+/* XS Mobile portrait*/
+/*@media only screen and (max-width : 480px){*/
+@media only screen and (max-width: 767px) {
+	.ls0-xs{ letter-spacing: 0px !important; }
+	.ls1-xs{ letter-spacing: 1px !important; }
+	.ls2-xs{ letter-spacing: 2px !important; }
+	.ls3-xs{ letter-spacing: 3px !important; }
+	.ls4-xs{ letter-spacing: 4px !important; }
+	.ls5-xs{ letter-spacing: 5px !important; }
+	.ls6-xs{ letter-spacing: 6px !important; }
+	.ls7-xs{ letter-spacing: 7px !important; }
+	.ls8-xs{ letter-spacing: 8px !important; }
+	.ls9-xs{ letter-spacing: 9px !important; }
+	.ls10-xs{ letter-spacing: 10px !important; }
+	.ls11-xs{ letter-spacing: 11px !important; }
+	.ls12-xs{ letter-spacing: 12px !important; }
+	.ls13-xs{ letter-spacing: 13px !important; }
+	.ls14-xs{ letter-spacing: 14px !important; }
+	.ls15-xs{ letter-spacing: 15px !important; }
+	.ls16-xs{ letter-spacing: 16px !important; }
+	.ls17-xs{ letter-spacing: 17px !important; }
+	.ls18-xs{ letter-spacing: 18px !important; }
+	.ls19-xs{ letter-spacing: 19px !important; }
+	.ls20-xs{ letter-spacing: 20px !important; }
+}
+
+/* XSL Mobile landscape*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.ls0-xsl{ letter-spacing: 0px !important; }
+	.ls1-xsl{ letter-spacing: 1px !important; }
+	.ls2-xsl{ letter-spacing: 2px !important; }
+	.ls3-xsl{ letter-spacing: 3px !important; }
+	.ls4-xsl{ letter-spacing: 4px !important; }
+	.ls5-xsl{ letter-spacing: 5px !important; }
+	.ls6-xsl{ letter-spacing: 6px !important; }
+	.ls7-xsl{ letter-spacing: 7px !important; }
+	.ls8-xsl{ letter-spacing: 8px !important; }
+	.ls9-xsl{ letter-spacing: 9px !important; }
+	.ls10-xsl{ letter-spacing: 10px !important; }
+	.ls11-xsl{ letter-spacing: 11px !important; }
+	.ls12-xsl{ letter-spacing: 12px !important; }
+	.ls13-xsl{ letter-spacing: 13px !important; }
+	.ls14-xsl{ letter-spacing: 14px !important; }
+	.ls15-xsl{ letter-spacing: 15px !important; }
+	.ls16-xsl{ letter-spacing: 16px !important; }
+	.ls17-xsl{ letter-spacing: 17px !important; }
+	.ls18-xsl{ letter-spacing: 18px !important; }
+	.ls19-xsl{ letter-spacing: 19px !important; }
+	.ls20-xsl{ letter-spacing: 20px !important; }
+}

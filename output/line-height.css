@@ -1,0 +1,132 @@
+/* line-height.css
+-----------------------------------------------------------------
+This file was generated automatically by CSS Helpers Builder Tool
+Licence: MIT
+Author: Carlos Maldonado @choquo
+Build date: 2017-08-08
+*/
+
+.lh10,.lh10-lg{ line-height: 10px !important; }
+.lh11,.lh11-lg{ line-height: 11px !important; }
+.lh12,.lh12-lg{ line-height: 12px !important; }
+.lh13,.lh13-lg{ line-height: 13px !important; }
+.lh14,.lh14-lg{ line-height: 14px !important; }
+.lh15,.lh15-lg{ line-height: 15px !important; }
+.lh16,.lh16-lg{ line-height: 16px !important; }
+.lh17,.lh17-lg{ line-height: 17px !important; }
+.lh18,.lh18-lg{ line-height: 18px !important; }
+.lh19,.lh19-lg{ line-height: 19px !important; }
+.lh20,.lh20-lg{ line-height: 20px !important; }
+.lh21,.lh21-lg{ line-height: 21px !important; }
+.lh22,.lh22-lg{ line-height: 22px !important; }
+.lh23,.lh23-lg{ line-height: 23px !important; }
+.lh24,.lh24-lg{ line-height: 24px !important; }
+.lh25,.lh25-lg{ line-height: 25px !important; }
+.lh26,.lh26-lg{ line-height: 26px !important; }
+.lh27,.lh27-lg{ line-height: 27px !important; }
+.lh28,.lh28-lg{ line-height: 28px !important; }
+.lh29,.lh29-lg{ line-height: 29px !important; }
+.lh30,.lh30-lg{ line-height: 30px !important; }
+
+/* MD Tablet, ipad portrait*/
+/*@media only screen and (max-width : 992px){*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { 
+	.lh10-md{ line-height: 10px !important; }
+	.lh11-md{ line-height: 11px !important; }
+	.lh12-md{ line-height: 12px !important; }
+	.lh13-md{ line-height: 13px !important; }
+	.lh14-md{ line-height: 14px !important; }
+	.lh15-md{ line-height: 15px !important; }
+	.lh16-md{ line-height: 16px !important; }
+	.lh17-md{ line-height: 17px !important; }
+	.lh18-md{ line-height: 18px !important; }
+	.lh19-md{ line-height: 19px !important; }
+	.lh20-md{ line-height: 20px !important; }
+	.lh21-md{ line-height: 21px !important; }
+	.lh22-md{ line-height: 22px !important; }
+	.lh23-md{ line-height: 23px !important; }
+	.lh24-md{ line-height: 24px !important; }
+	.lh25-md{ line-height: 25px !important; }
+	.lh26-md{ line-height: 26px !important; }
+	.lh27-md{ line-height: 27px !important; }
+	.lh28-md{ line-height: 28px !important; }
+	.lh29-md{ line-height: 29px !important; }
+	.lh30-md{ line-height: 30px !important; }
+}
+
+/* SM Tablet, ipad landscape*/ 
+/*@media only screen and (max-width : 768px){*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.lh10-sm{ line-height: 10px !important; }
+	.lh11-sm{ line-height: 11px !important; }
+	.lh12-sm{ line-height: 12px !important; }
+	.lh13-sm{ line-height: 13px !important; }
+	.lh14-sm{ line-height: 14px !important; }
+	.lh15-sm{ line-height: 15px !important; }
+	.lh16-sm{ line-height: 16px !important; }
+	.lh17-sm{ line-height: 17px !important; }
+	.lh18-sm{ line-height: 18px !important; }
+	.lh19-sm{ line-height: 19px !important; }
+	.lh20-sm{ line-height: 20px !important; }
+	.lh21-sm{ line-height: 21px !important; }
+	.lh22-sm{ line-height: 22px !important; }
+	.lh23-sm{ line-height: 23px !important; }
+	.lh24-sm{ line-height: 24px !important; }
+	.lh25-sm{ line-height: 25px !important; }
+	.lh26-sm{ line-height: 26px !important; }
+	.lh27-sm{ line-height: 27px !important; }
+	.lh28-sm{ line-height: 28px !important; }
+	.lh29-sm{ line-height: 29px !important; }
+	.lh30-sm{ line-height: 30px !important; }
+}
+
+/* XS Mobile portrait*/
+/*@media only screen and (max-width : 480px){*/
+@media only screen and (max-width: 767px) {
+	.lh10-xs{ line-height: 10px !important; }
+	.lh11-xs{ line-height: 11px !important; }
+	.lh12-xs{ line-height: 12px !important; }
+	.lh13-xs{ line-height: 13px !important; }
+	.lh14-xs{ line-height: 14px !important; }
+	.lh15-xs{ line-height: 15px !important; }
+	.lh16-xs{ line-height: 16px !important; }
+	.lh17-xs{ line-height: 17px !important; }
+	.lh18-xs{ line-height: 18px !important; }
+	.lh19-xs{ line-height: 19px !important; }
+	.lh20-xs{ line-height: 20px !important; }
+	.lh21-xs{ line-height: 21px !important; }
+	.lh22-xs{ line-height: 22px !important; }
+	.lh23-xs{ line-height: 23px !important; }
+	.lh24-xs{ line-height: 24px !important; }
+	.lh25-xs{ line-height: 25px !important; }
+	.lh26-xs{ line-height: 26px !important; }
+	.lh27-xs{ line-height: 27px !important; }
+	.lh28-xs{ line-height: 28px !important; }
+	.lh29-xs{ line-height: 29px !important; }
+	.lh30-xs{ line-height: 30px !important; }
+}
+
+/* XSL Mobile landscape*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.lh10-xsl{ line-height: 10px !important; }
+	.lh11-xsl{ line-height: 11px !important; }
+	.lh12-xsl{ line-height: 12px !important; }
+	.lh13-xsl{ line-height: 13px !important; }
+	.lh14-xsl{ line-height: 14px !important; }
+	.lh15-xsl{ line-height: 15px !important; }
+	.lh16-xsl{ line-height: 16px !important; }
+	.lh17-xsl{ line-height: 17px !important; }
+	.lh18-xsl{ line-height: 18px !important; }
+	.lh19-xsl{ line-height: 19px !important; }
+	.lh20-xsl{ line-height: 20px !important; }
+	.lh21-xsl{ line-height: 21px !important; }
+	.lh22-xsl{ line-height: 22px !important; }
+	.lh23-xsl{ line-height: 23px !important; }
+	.lh24-xsl{ line-height: 24px !important; }
+	.lh25-xsl{ line-height: 25px !important; }
+	.lh26-xsl{ line-height: 26px !important; }
+	.lh27-xsl{ line-height: 27px !important; }
+	.lh28-xsl{ line-height: 28px !important; }
+	.lh29-xsl{ line-height: 29px !important; }
+	.lh30-xsl{ line-height: 30px !important; }
+}

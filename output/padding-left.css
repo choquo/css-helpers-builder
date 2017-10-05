@@ -1,0 +1,169 @@
+/* padding-left.css
+-----------------------------------------------------------------
+This file was generated automatically by CSS Helpers Builder Tool
+URI: https://github.com/choquo/css-helpers-builder
+Licence: https://github.com/choquo/css-helpers-builder/LICENSE
+About Licence: MIT (https://opensource.org/licenses/MIT)
+Author: Carlos Maldonado @choquo
+Build date: 2017-10-05
+*/
+
+.paddingl0,.paddingl0-lg{ padding-left: 0px !important; }
+.paddingl5,.paddingl5-lg{ padding-left: 5px !important; }
+.paddingl10,.paddingl10-lg{ padding-left: 10px !important; }
+.paddingl15,.paddingl15-lg{ padding-left: 15px !important; }
+.paddingl20,.paddingl20-lg{ padding-left: 20px !important; }
+.paddingl30,.paddingl30-lg{ padding-left: 30px !important; }
+.paddingl40,.paddingl40-lg{ padding-left: 40px !important; }
+.paddingl50,.paddingl50-lg{ padding-left: 50px !important; }
+.paddingl60,.paddingl60-lg{ padding-left: 60px !important; }
+.paddingl70,.paddingl70-lg{ padding-left: 70px !important; }
+.paddingl80,.paddingl80-lg{ padding-left: 80px !important; }
+.paddingl90,.paddingl90-lg{ padding-left: 90px !important; }
+.paddingl100,.paddingl100-lg{ padding-left: 100px !important; }
+.paddingl110,.paddingl110-lg{ padding-left: 110px !important; }
+.paddingl120,.paddingl120-lg{ padding-left: 120px !important; }
+.paddingl130,.paddingl130-lg{ padding-left: 130px !important; }
+.paddingl140,.paddingl140-lg{ padding-left: 140px !important; }
+.paddingl150,.paddingl150-lg{ padding-left: 150px !important; }
+.paddingl160,.paddingl160-lg{ padding-left: 160px !important; }
+.paddingl170,.paddingl170-lg{ padding-left: 170px !important; }
+.paddingl180,.paddingl180-lg{ padding-left: 180px !important; }
+.paddingl190,.paddingl190-lg{ padding-left: 190px !important; }
+.paddingl200,.paddingl200-lg{ padding-left: 200px !important; }
+.paddingl210,.paddingl210-lg{ padding-left: 210px !important; }
+.paddingl220,.paddingl220-lg{ padding-left: 220px !important; }
+.paddingl230,.paddingl230-lg{ padding-left: 230px !important; }
+.paddingl240,.paddingl240-lg{ padding-left: 240px !important; }
+.paddingl250,.paddingl250-lg{ padding-left: 250px !important; }
+
+/* MD Tablet, ipad portrait*/
+/*@media only screen and (max-width : 992px){*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { 
+	.paddingl0-md{ padding-left: 0px !important; }
+	.paddingl5-md{ padding-left: 5px !important; }
+	.paddingl10-md{ padding-left: 10px !important; }
+	.paddingl15-md{ padding-left: 15px !important; }
+	.paddingl20-md{ padding-left: 20px !important; }
+	.paddingl30-md{ padding-left: 30px !important; }
+	.paddingl40-md{ padding-left: 40px !important; }
+	.paddingl50-md{ padding-left: 50px !important; }
+	.paddingl60-md{ padding-left: 60px !important; }
+	.paddingl70-md{ padding-left: 70px !important; }
+	.paddingl80-md{ padding-left: 80px !important; }
+	.paddingl90-md{ padding-left: 90px !important; }
+	.paddingl100-md{ padding-left: 100px !important; }
+	.paddingl110-md{ padding-left: 110px !important; }
+	.paddingl120-md{ padding-left: 120px !important; }
+	.paddingl130-md{ padding-left: 130px !important; }
+	.paddingl140-md{ padding-left: 140px !important; }
+	.paddingl150-md{ padding-left: 150px !important; }
+	.paddingl160-md{ padding-left: 160px !important; }
+	.paddingl170-md{ padding-left: 170px !important; }
+	.paddingl180-md{ padding-left: 180px !important; }
+	.paddingl190-md{ padding-left: 190px !important; }
+	.paddingl200-md{ padding-left: 200px !important; }
+	.paddingl210-md{ padding-left: 210px !important; }
+	.paddingl220-md{ padding-left: 220px !important; }
+	.paddingl230-md{ padding-left: 230px !important; }
+	.paddingl240-md{ padding-left: 240px !important; }
+	.paddingl250-md{ padding-left: 250px !important; }
+}
+
+/* SM Tablet, ipad landscape*/ 
+/*@media only screen and (max-width : 768px){*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.paddingl0-sm{ padding-left: 0px !important; }
+	.paddingl5-sm{ padding-left: 5px !important; }
+	.paddingl10-sm{ padding-left: 10px !important; }
+	.paddingl15-sm{ padding-left: 15px !important; }
+	.paddingl20-sm{ padding-left: 20px !important; }
+	.paddingl30-sm{ padding-left: 30px !important; }
+	.paddingl40-sm{ padding-left: 40px !important; }
+	.paddingl50-sm{ padding-left: 50px !important; }
+	.paddingl60-sm{ padding-left: 60px !important; }
+	.paddingl70-sm{ padding-left: 70px !important; }
+	.paddingl80-sm{ padding-left: 80px !important; }
+	.paddingl90-sm{ padding-left: 90px !important; }
+	.paddingl100-sm{ padding-left: 100px !important; }
+	.paddingl110-sm{ padding-left: 110px !important; }
+	.paddingl120-sm{ padding-left: 120px !important; }
+	.paddingl130-sm{ padding-left: 130px !important; }
+	.paddingl140-sm{ padding-left: 140px !important; }
+	.paddingl150-sm{ padding-left: 150px !important; }
+	.paddingl160-sm{ padding-left: 160px !important; }
+	.paddingl170-sm{ padding-left: 170px !important; }
+	.paddingl180-sm{ padding-left: 180px !important; }
+	.paddingl190-sm{ padding-left: 190px !important; }
+	.paddingl200-sm{ padding-left: 200px !important; }
+	.paddingl210-sm{ padding-left: 210px !important; }
+	.paddingl220-sm{ padding-left: 220px !important; }
+	.paddingl230-sm{ padding-left: 230px !important; }
+	.paddingl240-sm{ padding-left: 240px !important; }
+	.paddingl250-sm{ padding-left: 250px !important; }
+}
+
+/* XS Mobile portrait*/
+/*@media only screen and (max-width : 480px){*/
+@media only screen and (max-width: 767px) {
+	.paddingl0-xs{ padding-left: 0px !important; }
+	.paddingl5-xs{ padding-left: 5px !important; }
+	.paddingl10-xs{ padding-left: 10px !important; }
+	.paddingl15-xs{ padding-left: 15px !important; }
+	.paddingl20-xs{ padding-left: 20px !important; }
+	.paddingl30-xs{ padding-left: 30px !important; }
+	.paddingl40-xs{ padding-left: 40px !important; }
+	.paddingl50-xs{ padding-left: 50px !important; }
+	.paddingl60-xs{ padding-left: 60px !important; }
+	.paddingl70-xs{ padding-left: 70px !important; }
+	.paddingl80-xs{ padding-left: 80px !important; }
+	.paddingl90-xs{ padding-left: 90px !important; }
+	.paddingl100-xs{ padding-left: 100px !important; }
+	.paddingl110-xs{ padding-left: 110px !important; }
+	.paddingl120-xs{ padding-left: 120px !important; }
+	.paddingl130-xs{ padding-left: 130px !important; }
+	.paddingl140-xs{ padding-left: 140px !important; }
+	.paddingl150-xs{ padding-left: 150px !important; }
+	.paddingl160-xs{ padding-left: 160px !important; }
+	.paddingl170-xs{ padding-left: 170px !important; }
+	.paddingl180-xs{ padding-left: 180px !important; }
+	.paddingl190-xs{ padding-left: 190px !important; }
+	.paddingl200-xs{ padding-left: 200px !important; }
+	.paddingl210-xs{ padding-left: 210px !important; }
+	.paddingl220-xs{ padding-left: 220px !important; }
+	.paddingl230-xs{ padding-left: 230px !important; }
+	.paddingl240-xs{ padding-left: 240px !important; }
+	.paddingl250-xs{ padding-left: 250px !important; }
+}
+
+/* XSL Mobile landscape*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.paddingl0-xsland{ padding-left: 0px !important; }
+	.paddingl5-xsland{ padding-left: 5px !important; }
+	.paddingl10-xsland{ padding-left: 10px !important; }
+	.paddingl15-xsland{ padding-left: 15px !important; }
+	.paddingl20-xsland{ padding-left: 20px !important; }
+	.paddingl30-xsland{ padding-left: 30px !important; }
+	.paddingl40-xsland{ padding-left: 40px !important; }
+	.paddingl50-xsland{ padding-left: 50px !important; }
+	.paddingl60-xsland{ padding-left: 60px !important; }
+	.paddingl70-xsland{ padding-left: 70px !important; }
+	.paddingl80-xsland{ padding-left: 80px !important; }
+	.paddingl90-xsland{ padding-left: 90px !important; }
+	.paddingl100-xsland{ padding-left: 100px !important; }
+	.paddingl110-xsland{ padding-left: 110px !important; }
+	.paddingl120-xsland{ padding-left: 120px !important; }
+	.paddingl130-xsland{ padding-left: 130px !important; }
+	.paddingl140-xsland{ padding-left: 140px !important; }
+	.paddingl150-xsland{ padding-left: 150px !important; }
+	.paddingl160-xsland{ padding-left: 160px !important; }
+	.paddingl170-xsland{ padding-left: 170px !important; }
+	.paddingl180-xsland{ padding-left: 180px !important; }
+	.paddingl190-xsland{ padding-left: 190px !important; }
+	.paddingl200-xsland{ padding-left: 200px !important; }
+	.paddingl210-xsland{ padding-left: 210px !important; }
+	.paddingl220-xsland{ padding-left: 220px !important; }
+	.paddingl230-xsland{ padding-left: 230px !important; }
+	.paddingl240-xsland{ padding-left: 240px !important; }
+	.paddingl250-xsland{ padding-left: 250px !important; }
+}

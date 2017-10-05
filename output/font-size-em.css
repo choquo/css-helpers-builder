@@ -1,0 +1,152 @@
+/* font-size-em.css
+-----------------------------------------------------------------
+This file was generated automatically by CSS Helpers Builder Tool
+Licence: MIT
+Author: Carlos Maldonado @choquo
+Build date: 2017-08-08
+*/
+
+.fs1em,.fs1em-lg{ font-size: 1em !important; }
+.fs2em,.fs2em-lg{ font-size: 2em !important; }
+.fs3em,.fs3em-lg{ font-size: 3em !important; }
+.fs4em,.fs4em-lg{ font-size: 4em !important; }
+.fs5em,.fs5em-lg{ font-size: 5em !important; }
+.fs6em,.fs6em-lg{ font-size: 6em !important; }
+.fs7em,.fs7em-lg{ font-size: 7em !important; }
+.fs8em,.fs8em-lg{ font-size: 8em !important; }
+.fs9em,.fs9em-lg{ font-size: 9em !important; }
+.fs10em,.fs10em-lg{ font-size: 10em !important; }
+.fs11em,.fs11em-lg{ font-size: 11em !important; }
+.fs12em,.fs12em-lg{ font-size: 12em !important; }
+.fs13em,.fs13em-lg{ font-size: 13em !important; }
+.fs14em,.fs14em-lg{ font-size: 14em !important; }
+.fs15em,.fs15em-lg{ font-size: 15em !important; }
+.fs16em,.fs16em-lg{ font-size: 16em !important; }
+.fs17em,.fs17em-lg{ font-size: 17em !important; }
+.fs18em,.fs18em-lg{ font-size: 18em !important; }
+.fs19em,.fs19em-lg{ font-size: 19em !important; }
+.fs20em,.fs20em-lg{ font-size: 20em !important; }
+.fs21em,.fs21em-lg{ font-size: 21em !important; }
+.fs22em,.fs22em-lg{ font-size: 22em !important; }
+.fs23em,.fs23em-lg{ font-size: 23em !important; }
+.fs24em,.fs24em-lg{ font-size: 24em !important; }
+.fs25em,.fs25em-lg{ font-size: 25em !important; }
+
+/* MD Tablet, ipad portrait*/
+/*@media only screen and (max-width : 992px){*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { 
+	.fs1em-md{ font-size: 1em !important; }
+	.fs2em-md{ font-size: 2em !important; }
+	.fs3em-md{ font-size: 3em !important; }
+	.fs4em-md{ font-size: 4em !important; }
+	.fs5em-md{ font-size: 5em !important; }
+	.fs6em-md{ font-size: 6em !important; }
+	.fs7em-md{ font-size: 7em !important; }
+	.fs8em-md{ font-size: 8em !important; }
+	.fs9em-md{ font-size: 9em !important; }
+	.fs10em-md{ font-size: 10em !important; }
+	.fs11em-md{ font-size: 11em !important; }
+	.fs12em-md{ font-size: 12em !important; }
+	.fs13em-md{ font-size: 13em !important; }
+	.fs14em-md{ font-size: 14em !important; }
+	.fs15em-md{ font-size: 15em !important; }
+	.fs16em-md{ font-size: 16em !important; }
+	.fs17em-md{ font-size: 17em !important; }
+	.fs18em-md{ font-size: 18em !important; }
+	.fs19em-md{ font-size: 19em !important; }
+	.fs20em-md{ font-size: 20em !important; }
+	.fs21em-md{ font-size: 21em !important; }
+	.fs22em-md{ font-size: 22em !important; }
+	.fs23em-md{ font-size: 23em !important; }
+	.fs24em-md{ font-size: 24em !important; }
+	.fs25em-md{ font-size: 25em !important; }
+}
+
+/* SM Tablet, ipad landscape*/ 
+/*@media only screen and (max-width : 768px){*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.fs1em-sm{ font-size: 1em !important; }
+	.fs2em-sm{ font-size: 2em !important; }
+	.fs3em-sm{ font-size: 3em !important; }
+	.fs4em-sm{ font-size: 4em !important; }
+	.fs5em-sm{ font-size: 5em !important; }
+	.fs6em-sm{ font-size: 6em !important; }
+	.fs7em-sm{ font-size: 7em !important; }
+	.fs8em-sm{ font-size: 8em !important; }
+	.fs9em-sm{ font-size: 9em !important; }
+	.fs10em-sm{ font-size: 10em !important; }
+	.fs11em-sm{ font-size: 11em !important; }
+	.fs12em-sm{ font-size: 12em !important; }
+	.fs13em-sm{ font-size: 13em !important; }
+	.fs14em-sm{ font-size: 14em !important; }
+	.fs15em-sm{ font-size: 15em !important; }
+	.fs16em-sm{ font-size: 16em !important; }
+	.fs17em-sm{ font-size: 17em !important; }
+	.fs18em-sm{ font-size: 18em !important; }
+	.fs19em-sm{ font-size: 19em !important; }
+	.fs20em-sm{ font-size: 20em !important; }
+	.fs21em-sm{ font-size: 21em !important; }
+	.fs22em-sm{ font-size: 22em !important; }
+	.fs23em-sm{ font-size: 23em !important; }
+	.fs24em-sm{ font-size: 24em !important; }
+	.fs25em-sm{ font-size: 25em !important; }
+}
+
+/* XS Mobile portrait*/
+/*@media only screen and (max-width : 480px){*/
+@media only screen and (max-width: 767px) {
+	.fs1em-xs{ font-size: 1em !important; }
+	.fs2em-xs{ font-size: 2em !important; }
+	.fs3em-xs{ font-size: 3em !important; }
+	.fs4em-xs{ font-size: 4em !important; }
+	.fs5em-xs{ font-size: 5em !important; }
+	.fs6em-xs{ font-size: 6em !important; }
+	.fs7em-xs{ font-size: 7em !important; }
+	.fs8em-xs{ font-size: 8em !important; }
+	.fs9em-xs{ font-size: 9em !important; }
+	.fs10em-xs{ font-size: 10em !important; }
+	.fs11em-xs{ font-size: 11em !important; }
+	.fs12em-xs{ font-size: 12em !important; }
+	.fs13em-xs{ font-size: 13em !important; }
+	.fs14em-xs{ font-size: 14em !important; }
+	.fs15em-xs{ font-size: 15em !important; }
+	.fs16em-xs{ font-size: 16em !important; }
+	.fs17em-xs{ font-size: 17em !important; }
+	.fs18em-xs{ font-size: 18em !important; }
+	.fs19em-xs{ font-size: 19em !important; }
+	.fs20em-xs{ font-size: 20em !important; }
+	.fs21em-xs{ font-size: 21em !important; }
+	.fs22em-xs{ font-size: 22em !important; }
+	.fs23em-xs{ font-size: 23em !important; }
+	.fs24em-xs{ font-size: 24em !important; }
+	.fs25em-xs{ font-size: 25em !important; }
+}
+
+/* XSL Mobile landscape*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.fs1em-xsl{ font-size: 1em !important; }
+	.fs2em-xsl{ font-size: 2em !important; }
+	.fs3em-xsl{ font-size: 3em !important; }
+	.fs4em-xsl{ font-size: 4em !important; }
+	.fs5em-xsl{ font-size: 5em !important; }
+	.fs6em-xsl{ font-size: 6em !important; }
+	.fs7em-xsl{ font-size: 7em !important; }
+	.fs8em-xsl{ font-size: 8em !important; }
+	.fs9em-xsl{ font-size: 9em !important; }
+	.fs10em-xsl{ font-size: 10em !important; }
+	.fs11em-xsl{ font-size: 11em !important; }
+	.fs12em-xsl{ font-size: 12em !important; }
+	.fs13em-xsl{ font-size: 13em !important; }
+	.fs14em-xsl{ font-size: 14em !important; }
+	.fs15em-xsl{ font-size: 15em !important; }
+	.fs16em-xsl{ font-size: 16em !important; }
+	.fs17em-xsl{ font-size: 17em !important; }
+	.fs18em-xsl{ font-size: 18em !important; }
+	.fs19em-xsl{ font-size: 19em !important; }
+	.fs20em-xsl{ font-size: 20em !important; }
+	.fs21em-xsl{ font-size: 21em !important; }
+	.fs22em-xsl{ font-size: 22em !important; }
+	.fs23em-xsl{ font-size: 23em !important; }
+	.fs24em-xsl{ font-size: 24em !important; }
+	.fs25em-xsl{ font-size: 25em !important; }
+}

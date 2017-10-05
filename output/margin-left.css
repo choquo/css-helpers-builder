@@ -1,0 +1,169 @@
+/* margin-left.css
+-----------------------------------------------------------------
+This file was generated automatically by CSS Helpers Builder Tool
+URI: https://github.com/choquo/css-helpers-builder
+Licence: https://github.com/choquo/css-helpers-builder/LICENSE
+About Licence: MIT (https://opensource.org/licenses/MIT)
+Author: Carlos Maldonado @choquo
+Build date: 2017-10-05
+*/
+
+.ml0,.ml0-lg{ margin-left: 0px !important; }
+.ml5,.ml5-lg{ margin-left: 5px !important; }
+.ml10,.ml10-lg{ margin-left: 10px !important; }
+.ml15,.ml15-lg{ margin-left: 15px !important; }
+.ml20,.ml20-lg{ margin-left: 20px !important; }
+.ml30,.ml30-lg{ margin-left: 30px !important; }
+.ml40,.ml40-lg{ margin-left: 40px !important; }
+.ml50,.ml50-lg{ margin-left: 50px !important; }
+.ml60,.ml60-lg{ margin-left: 60px !important; }
+.ml70,.ml70-lg{ margin-left: 70px !important; }
+.ml80,.ml80-lg{ margin-left: 80px !important; }
+.ml90,.ml90-lg{ margin-left: 90px !important; }
+.ml100,.ml100-lg{ margin-left: 100px !important; }
+.ml110,.ml110-lg{ margin-left: 110px !important; }
+.ml120,.ml120-lg{ margin-left: 120px !important; }
+.ml130,.ml130-lg{ margin-left: 130px !important; }
+.ml140,.ml140-lg{ margin-left: 140px !important; }
+.ml150,.ml150-lg{ margin-left: 150px !important; }
+.ml160,.ml160-lg{ margin-left: 160px !important; }
+.ml170,.ml170-lg{ margin-left: 170px !important; }
+.ml180,.ml180-lg{ margin-left: 180px !important; }
+.ml190,.ml190-lg{ margin-left: 190px !important; }
+.ml200,.ml200-lg{ margin-left: 200px !important; }
+.ml210,.ml210-lg{ margin-left: 210px !important; }
+.ml220,.ml220-lg{ margin-left: 220px !important; }
+.ml230,.ml230-lg{ margin-left: 230px !important; }
+.ml240,.ml240-lg{ margin-left: 240px !important; }
+.ml250,.ml250-lg{ margin-left: 250px !important; }
+
+/* MD Tablet, ipad portrait*/
+/*@media only screen and (max-width : 992px){*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { 
+	.ml0-md{ margin-left: 0px !important; }
+	.ml5-md{ margin-left: 5px !important; }
+	.ml10-md{ margin-left: 10px !important; }
+	.ml15-md{ margin-left: 15px !important; }
+	.ml20-md{ margin-left: 20px !important; }
+	.ml30-md{ margin-left: 30px !important; }
+	.ml40-md{ margin-left: 40px !important; }
+	.ml50-md{ margin-left: 50px !important; }
+	.ml60-md{ margin-left: 60px !important; }
+	.ml70-md{ margin-left: 70px !important; }
+	.ml80-md{ margin-left: 80px !important; }
+	.ml90-md{ margin-left: 90px !important; }
+	.ml100-md{ margin-left: 100px !important; }
+	.ml110-md{ margin-left: 110px !important; }
+	.ml120-md{ margin-left: 120px !important; }
+	.ml130-md{ margin-left: 130px !important; }
+	.ml140-md{ margin-left: 140px !important; }
+	.ml150-md{ margin-left: 150px !important; }
+	.ml160-md{ margin-left: 160px !important; }
+	.ml170-md{ margin-left: 170px !important; }
+	.ml180-md{ margin-left: 180px !important; }
+	.ml190-md{ margin-left: 190px !important; }
+	.ml200-md{ margin-left: 200px !important; }
+	.ml210-md{ margin-left: 210px !important; }
+	.ml220-md{ margin-left: 220px !important; }
+	.ml230-md{ margin-left: 230px !important; }
+	.ml240-md{ margin-left: 240px !important; }
+	.ml250-md{ margin-left: 250px !important; }
+}
+
+/* SM Tablet, ipad landscape*/ 
+/*@media only screen and (max-width : 768px){*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.ml0-sm{ margin-left: 0px !important; }
+	.ml5-sm{ margin-left: 5px !important; }
+	.ml10-sm{ margin-left: 10px !important; }
+	.ml15-sm{ margin-left: 15px !important; }
+	.ml20-sm{ margin-left: 20px !important; }
+	.ml30-sm{ margin-left: 30px !important; }
+	.ml40-sm{ margin-left: 40px !important; }
+	.ml50-sm{ margin-left: 50px !important; }
+	.ml60-sm{ margin-left: 60px !important; }
+	.ml70-sm{ margin-left: 70px !important; }
+	.ml80-sm{ margin-left: 80px !important; }
+	.ml90-sm{ margin-left: 90px !important; }
+	.ml100-sm{ margin-left: 100px !important; }
+	.ml110-sm{ margin-left: 110px !important; }
+	.ml120-sm{ margin-left: 120px !important; }
+	.ml130-sm{ margin-left: 130px !important; }
+	.ml140-sm{ margin-left: 140px !important; }
+	.ml150-sm{ margin-left: 150px !important; }
+	.ml160-sm{ margin-left: 160px !important; }
+	.ml170-sm{ margin-left: 170px !important; }
+	.ml180-sm{ margin-left: 180px !important; }
+	.ml190-sm{ margin-left: 190px !important; }
+	.ml200-sm{ margin-left: 200px !important; }
+	.ml210-sm{ margin-left: 210px !important; }
+	.ml220-sm{ margin-left: 220px !important; }
+	.ml230-sm{ margin-left: 230px !important; }
+	.ml240-sm{ margin-left: 240px !important; }
+	.ml250-sm{ margin-left: 250px !important; }
+}
+
+/* XS Mobile portrait*/
+/*@media only screen and (max-width : 480px){*/
+@media only screen and (max-width: 767px) {
+	.ml0-xs{ margin-left: 0px !important; }
+	.ml5-xs{ margin-left: 5px !important; }
+	.ml10-xs{ margin-left: 10px !important; }
+	.ml15-xs{ margin-left: 15px !important; }
+	.ml20-xs{ margin-left: 20px !important; }
+	.ml30-xs{ margin-left: 30px !important; }
+	.ml40-xs{ margin-left: 40px !important; }
+	.ml50-xs{ margin-left: 50px !important; }
+	.ml60-xs{ margin-left: 60px !important; }
+	.ml70-xs{ margin-left: 70px !important; }
+	.ml80-xs{ margin-left: 80px !important; }
+	.ml90-xs{ margin-left: 90px !important; }
+	.ml100-xs{ margin-left: 100px !important; }
+	.ml110-xs{ margin-left: 110px !important; }
+	.ml120-xs{ margin-left: 120px !important; }
+	.ml130-xs{ margin-left: 130px !important; }
+	.ml140-xs{ margin-left: 140px !important; }
+	.ml150-xs{ margin-left: 150px !important; }
+	.ml160-xs{ margin-left: 160px !important; }
+	.ml170-xs{ margin-left: 170px !important; }
+	.ml180-xs{ margin-left: 180px !important; }
+	.ml190-xs{ margin-left: 190px !important; }
+	.ml200-xs{ margin-left: 200px !important; }
+	.ml210-xs{ margin-left: 210px !important; }
+	.ml220-xs{ margin-left: 220px !important; }
+	.ml230-xs{ margin-left: 230px !important; }
+	.ml240-xs{ margin-left: 240px !important; }
+	.ml250-xs{ margin-left: 250px !important; }
+}
+
+/* XSL Mobile landscape*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.ml0-xsl{ margin-left: 0px !important; }
+	.ml5-xsl{ margin-left: 5px !important; }
+	.ml10-xsl{ margin-left: 10px !important; }
+	.ml15-xsl{ margin-left: 15px !important; }
+	.ml20-xsl{ margin-left: 20px !important; }
+	.ml30-xsl{ margin-left: 30px !important; }
+	.ml40-xsl{ margin-left: 40px !important; }
+	.ml50-xsl{ margin-left: 50px !important; }
+	.ml60-xsl{ margin-left: 60px !important; }
+	.ml70-xsl{ margin-left: 70px !important; }
+	.ml80-xsl{ margin-left: 80px !important; }
+	.ml90-xsl{ margin-left: 90px !important; }
+	.ml100-xsl{ margin-left: 100px !important; }
+	.ml110-xsl{ margin-left: 110px !important; }
+	.ml120-xsl{ margin-left: 120px !important; }
+	.ml130-xsl{ margin-left: 130px !important; }
+	.ml140-xsl{ margin-left: 140px !important; }
+	.ml150-xsl{ margin-left: 150px !important; }
+	.ml160-xsl{ margin-left: 160px !important; }
+	.ml170-xsl{ margin-left: 170px !important; }
+	.ml180-xsl{ margin-left: 180px !important; }
+	.ml190-xsl{ margin-left: 190px !important; }
+	.ml200-xsl{ margin-left: 200px !important; }
+	.ml210-xsl{ margin-left: 210px !important; }
+	.ml220-xsl{ margin-left: 220px !important; }
+	.ml230-xsl{ margin-left: 230px !important; }
+	.ml240-xsl{ margin-left: 240px !important; }
+	.ml250-xsl{ margin-left: 250px !important; }
+}

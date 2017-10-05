@@ -1,0 +1,169 @@
+/* padding-top.css
+-----------------------------------------------------------------
+This file was generated automatically by CSS Helpers Builder Tool
+URI: https://github.com/choquo/css-helpers-builder
+Licence: https://github.com/choquo/css-helpers-builder/LICENSE
+About Licence: MIT (https://opensource.org/licenses/MIT)
+Author: Carlos Maldonado @choquo
+Build date: 2017-10-05
+*/
+
+.paddingt0,.paddingt0-lg{ padding-top: 0px !important; }
+.paddingt5,.paddingt5-lg{ padding-top: 5px !important; }
+.paddingt10,.paddingt10-lg{ padding-top: 10px !important; }
+.paddingt15,.paddingt15-lg{ padding-top: 15px !important; }
+.paddingt20,.paddingt20-lg{ padding-top: 20px !important; }
+.paddingt30,.paddingt30-lg{ padding-top: 30px !important; }
+.paddingt40,.paddingt40-lg{ padding-top: 40px !important; }
+.paddingt50,.paddingt50-lg{ padding-top: 50px !important; }
+.paddingt60,.paddingt60-lg{ padding-top: 60px !important; }
+.paddingt70,.paddingt70-lg{ padding-top: 70px !important; }
+.paddingt80,.paddingt80-lg{ padding-top: 80px !important; }
+.paddingt90,.paddingt90-lg{ padding-top: 90px !important; }
+.paddingt100,.paddingt100-lg{ padding-top: 100px !important; }
+.paddingt110,.paddingt110-lg{ padding-top: 110px !important; }
+.paddingt120,.paddingt120-lg{ padding-top: 120px !important; }
+.paddingt130,.paddingt130-lg{ padding-top: 130px !important; }
+.paddingt140,.paddingt140-lg{ padding-top: 140px !important; }
+.paddingt150,.paddingt150-lg{ padding-top: 150px !important; }
+.paddingt160,.paddingt160-lg{ padding-top: 160px !important; }
+.paddingt170,.paddingt170-lg{ padding-top: 170px !important; }
+.paddingt180,.paddingt180-lg{ padding-top: 180px !important; }
+.paddingt190,.paddingt190-lg{ padding-top: 190px !important; }
+.paddingt200,.paddingt200-lg{ padding-top: 200px !important; }
+.paddingt210,.paddingt210-lg{ padding-top: 210px !important; }
+.paddingt220,.paddingt220-lg{ padding-top: 220px !important; }
+.paddingt230,.paddingt230-lg{ padding-top: 230px !important; }
+.paddingt240,.paddingt240-lg{ padding-top: 240px !important; }
+.paddingt250,.paddingt250-lg{ padding-top: 250px !important; }
+
+/* MD Tablet, ipad portrait*/
+/*@media only screen and (max-width : 992px){*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { 
+	.paddingt0-md{ padding-top: 0px !important; }
+	.paddingt5-md{ padding-top: 5px !important; }
+	.paddingt10-md{ padding-top: 10px !important; }
+	.paddingt15-md{ padding-top: 15px !important; }
+	.paddingt20-md{ padding-top: 20px !important; }
+	.paddingt30-md{ padding-top: 30px !important; }
+	.paddingt40-md{ padding-top: 40px !important; }
+	.paddingt50-md{ padding-top: 50px !important; }
+	.paddingt60-md{ padding-top: 60px !important; }
+	.paddingt70-md{ padding-top: 70px !important; }
+	.paddingt80-md{ padding-top: 80px !important; }
+	.paddingt90-md{ padding-top: 90px !important; }
+	.paddingt100-md{ padding-top: 100px !important; }
+	.paddingt110-md{ padding-top: 110px !important; }
+	.paddingt120-md{ padding-top: 120px !important; }
+	.paddingt130-md{ padding-top: 130px !important; }
+	.paddingt140-md{ padding-top: 140px !important; }
+	.paddingt150-md{ padding-top: 150px !important; }
+	.paddingt160-md{ padding-top: 160px !important; }
+	.paddingt170-md{ padding-top: 170px !important; }
+	.paddingt180-md{ padding-top: 180px !important; }
+	.paddingt190-md{ padding-top: 190px !important; }
+	.paddingt200-md{ padding-top: 200px !important; }
+	.paddingt210-md{ padding-top: 210px !important; }
+	.paddingt220-md{ padding-top: 220px !important; }
+	.paddingt230-md{ padding-top: 230px !important; }
+	.paddingt240-md{ padding-top: 240px !important; }
+	.paddingt250-md{ padding-top: 250px !important; }
+}
+
+/* SM Tablet, ipad landscape*/ 
+/*@media only screen and (max-width : 768px){*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.paddingt0-sm{ padding-top: 0px !important; }
+	.paddingt5-sm{ padding-top: 5px !important; }
+	.paddingt10-sm{ padding-top: 10px !important; }
+	.paddingt15-sm{ padding-top: 15px !important; }
+	.paddingt20-sm{ padding-top: 20px !important; }
+	.paddingt30-sm{ padding-top: 30px !important; }
+	.paddingt40-sm{ padding-top: 40px !important; }
+	.paddingt50-sm{ padding-top: 50px !important; }
+	.paddingt60-sm{ padding-top: 60px !important; }
+	.paddingt70-sm{ padding-top: 70px !important; }
+	.paddingt80-sm{ padding-top: 80px !important; }
+	.paddingt90-sm{ padding-top: 90px !important; }
+	.paddingt100-sm{ padding-top: 100px !important; }
+	.paddingt110-sm{ padding-top: 110px !important; }
+	.paddingt120-sm{ padding-top: 120px !important; }
+	.paddingt130-sm{ padding-top: 130px !important; }
+	.paddingt140-sm{ padding-top: 140px !important; }
+	.paddingt150-sm{ padding-top: 150px !important; }
+	.paddingt160-sm{ padding-top: 160px !important; }
+	.paddingt170-sm{ padding-top: 170px !important; }
+	.paddingt180-sm{ padding-top: 180px !important; }
+	.paddingt190-sm{ padding-top: 190px !important; }
+	.paddingt200-sm{ padding-top: 200px !important; }
+	.paddingt210-sm{ padding-top: 210px !important; }
+	.paddingt220-sm{ padding-top: 220px !important; }
+	.paddingt230-sm{ padding-top: 230px !important; }
+	.paddingt240-sm{ padding-top: 240px !important; }
+	.paddingt250-sm{ padding-top: 250px !important; }
+}
+
+/* XS Mobile portrait*/
+/*@media only screen and (max-width : 480px){*/
+@media only screen and (max-width: 767px) {
+	.paddingt0-xs{ padding-top: 0px !important; }
+	.paddingt5-xs{ padding-top: 5px !important; }
+	.paddingt10-xs{ padding-top: 10px !important; }
+	.paddingt15-xs{ padding-top: 15px !important; }
+	.paddingt20-xs{ padding-top: 20px !important; }
+	.paddingt30-xs{ padding-top: 30px !important; }
+	.paddingt40-xs{ padding-top: 40px !important; }
+	.paddingt50-xs{ padding-top: 50px !important; }
+	.paddingt60-xs{ padding-top: 60px !important; }
+	.paddingt70-xs{ padding-top: 70px !important; }
+	.paddingt80-xs{ padding-top: 80px !important; }
+	.paddingt90-xs{ padding-top: 90px !important; }
+	.paddingt100-xs{ padding-top: 100px !important; }
+	.paddingt110-xs{ padding-top: 110px !important; }
+	.paddingt120-xs{ padding-top: 120px !important; }
+	.paddingt130-xs{ padding-top: 130px !important; }
+	.paddingt140-xs{ padding-top: 140px !important; }
+	.paddingt150-xs{ padding-top: 150px !important; }
+	.paddingt160-xs{ padding-top: 160px !important; }
+	.paddingt170-xs{ padding-top: 170px !important; }
+	.paddingt180-xs{ padding-top: 180px !important; }
+	.paddingt190-xs{ padding-top: 190px !important; }
+	.paddingt200-xs{ padding-top: 200px !important; }
+	.paddingt210-xs{ padding-top: 210px !important; }
+	.paddingt220-xs{ padding-top: 220px !important; }
+	.paddingt230-xs{ padding-top: 230px !important; }
+	.paddingt240-xs{ padding-top: 240px !important; }
+	.paddingt250-xs{ padding-top: 250px !important; }
+}
+
+/* XSL Mobile landscape*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.paddingt0-xsland{ padding-top: 0px !important; }
+	.paddingt5-xsland{ padding-top: 5px !important; }
+	.paddingt10-xsland{ padding-top: 10px !important; }
+	.paddingt15-xsland{ padding-top: 15px !important; }
+	.paddingt20-xsland{ padding-top: 20px !important; }
+	.paddingt30-xsland{ padding-top: 30px !important; }
+	.paddingt40-xsland{ padding-top: 40px !important; }
+	.paddingt50-xsland{ padding-top: 50px !important; }
+	.paddingt60-xsland{ padding-top: 60px !important; }
+	.paddingt70-xsland{ padding-top: 70px !important; }
+	.paddingt80-xsland{ padding-top: 80px !important; }
+	.paddingt90-xsland{ padding-top: 90px !important; }
+	.paddingt100-xsland{ padding-top: 100px !important; }
+	.paddingt110-xsland{ padding-top: 110px !important; }
+	.paddingt120-xsland{ padding-top: 120px !important; }
+	.paddingt130-xsland{ padding-top: 130px !important; }
+	.paddingt140-xsland{ padding-top: 140px !important; }
+	.paddingt150-xsland{ padding-top: 150px !important; }
+	.paddingt160-xsland{ padding-top: 160px !important; }
+	.paddingt170-xsland{ padding-top: 170px !important; }
+	.paddingt180-xsland{ padding-top: 180px !important; }
+	.paddingt190-xsland{ padding-top: 190px !important; }
+	.paddingt200-xsland{ padding-top: 200px !important; }
+	.paddingt210-xsland{ padding-top: 210px !important; }
+	.paddingt220-xsland{ padding-top: 220px !important; }
+	.paddingt230-xsland{ padding-top: 230px !important; }
+	.paddingt240-xsland{ padding-top: 240px !important; }
+	.paddingt250-xsland{ padding-top: 250px !important; }
+}

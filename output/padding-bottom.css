@@ -1,0 +1,169 @@
+/* padding-bottom.css
+-----------------------------------------------------------------
+This file was generated automatically by CSS Helpers Builder Tool
+URI: https://github.com/choquo/css-helpers-builder
+Licence: https://github.com/choquo/css-helpers-builder/LICENSE
+About Licence: MIT (https://opensource.org/licenses/MIT)
+Author: Carlos Maldonado @choquo
+Build date: 2017-10-05
+*/
+
+.paddingb0,.paddingb0-lg{ padding-bottom: 0px !important; }
+.paddingb5,.paddingb5-lg{ padding-bottom: 5px !important; }
+.paddingb10,.paddingb10-lg{ padding-bottom: 10px !important; }
+.paddingb15,.paddingb15-lg{ padding-bottom: 15px !important; }
+.paddingb20,.paddingb20-lg{ padding-bottom: 20px !important; }
+.paddingb30,.paddingb30-lg{ padding-bottom: 30px !important; }
+.paddingb40,.paddingb40-lg{ padding-bottom: 40px !important; }
+.paddingb50,.paddingb50-lg{ padding-bottom: 50px !important; }
+.paddingb60,.paddingb60-lg{ padding-bottom: 60px !important; }
+.paddingb70,.paddingb70-lg{ padding-bottom: 70px !important; }
+.paddingb80,.paddingb80-lg{ padding-bottom: 80px !important; }
+.paddingb90,.paddingb90-lg{ padding-bottom: 90px !important; }
+.paddingb100,.paddingb100-lg{ padding-bottom: 100px !important; }
+.paddingb110,.paddingb110-lg{ padding-bottom: 110px !important; }
+.paddingb120,.paddingb120-lg{ padding-bottom: 120px !important; }
+.paddingb130,.paddingb130-lg{ padding-bottom: 130px !important; }
+.paddingb140,.paddingb140-lg{ padding-bottom: 140px !important; }
+.paddingb150,.paddingb150-lg{ padding-bottom: 150px !important; }
+.paddingb160,.paddingb160-lg{ padding-bottom: 160px !important; }
+.paddingb170,.paddingb170-lg{ padding-bottom: 170px !important; }
+.paddingb180,.paddingb180-lg{ padding-bottom: 180px !important; }
+.paddingb190,.paddingb190-lg{ padding-bottom: 190px !important; }
+.paddingb200,.paddingb200-lg{ padding-bottom: 200px !important; }
+.paddingb210,.paddingb210-lg{ padding-bottom: 210px !important; }
+.paddingb220,.paddingb220-lg{ padding-bottom: 220px !important; }
+.paddingb230,.paddingb230-lg{ padding-bottom: 230px !important; }
+.paddingb240,.paddingb240-lg{ padding-bottom: 240px !important; }
+.paddingb250,.paddingb250-lg{ padding-bottom: 250px !important; }
+
+/* MD Tablet, ipad portrait*/
+/*@media only screen and (max-width : 992px){*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { 
+	.paddingb0-md{ padding-bottom: 0px !important; }
+	.paddingb5-md{ padding-bottom: 5px !important; }
+	.paddingb10-md{ padding-bottom: 10px !important; }
+	.paddingb15-md{ padding-bottom: 15px !important; }
+	.paddingb20-md{ padding-bottom: 20px !important; }
+	.paddingb30-md{ padding-bottom: 30px !important; }
+	.paddingb40-md{ padding-bottom: 40px !important; }
+	.paddingb50-md{ padding-bottom: 50px !important; }
+	.paddingb60-md{ padding-bottom: 60px !important; }
+	.paddingb70-md{ padding-bottom: 70px !important; }
+	.paddingb80-md{ padding-bottom: 80px !important; }
+	.paddingb90-md{ padding-bottom: 90px !important; }
+	.paddingb100-md{ padding-bottom: 100px !important; }
+	.paddingb110-md{ padding-bottom: 110px !important; }
+	.paddingb120-md{ padding-bottom: 120px !important; }
+	.paddingb130-md{ padding-bottom: 130px !important; }
+	.paddingb140-md{ padding-bottom: 140px !important; }
+	.paddingb150-md{ padding-bottom: 150px !important; }
+	.paddingb160-md{ padding-bottom: 160px !important; }
+	.paddingb170-md{ padding-bottom: 170px !important; }
+	.paddingb180-md{ padding-bottom: 180px !important; }
+	.paddingb190-md{ padding-bottom: 190px !important; }
+	.paddingb200-md{ padding-bottom: 200px !important; }
+	.paddingb210-md{ padding-bottom: 210px !important; }
+	.paddingb220-md{ padding-bottom: 220px !important; }
+	.paddingb230-md{ padding-bottom: 230px !important; }
+	.paddingb240-md{ padding-bottom: 240px !important; }
+	.paddingb250-md{ padding-bottom: 250px !important; }
+}
+
+/* SM Tablet, ipad landscape*/ 
+/*@media only screen and (max-width : 768px){*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.paddingb0-sm{ padding-bottom: 0px !important; }
+	.paddingb5-sm{ padding-bottom: 5px !important; }
+	.paddingb10-sm{ padding-bottom: 10px !important; }
+	.paddingb15-sm{ padding-bottom: 15px !important; }
+	.paddingb20-sm{ padding-bottom: 20px !important; }
+	.paddingb30-sm{ padding-bottom: 30px !important; }
+	.paddingb40-sm{ padding-bottom: 40px !important; }
+	.paddingb50-sm{ padding-bottom: 50px !important; }
+	.paddingb60-sm{ padding-bottom: 60px !important; }
+	.paddingb70-sm{ padding-bottom: 70px !important; }
+	.paddingb80-sm{ padding-bottom: 80px !important; }
+	.paddingb90-sm{ padding-bottom: 90px !important; }
+	.paddingb100-sm{ padding-bottom: 100px !important; }
+	.paddingb110-sm{ padding-bottom: 110px !important; }
+	.paddingb120-sm{ padding-bottom: 120px !important; }
+	.paddingb130-sm{ padding-bottom: 130px !important; }
+	.paddingb140-sm{ padding-bottom: 140px !important; }
+	.paddingb150-sm{ padding-bottom: 150px !important; }
+	.paddingb160-sm{ padding-bottom: 160px !important; }
+	.paddingb170-sm{ padding-bottom: 170px !important; }
+	.paddingb180-sm{ padding-bottom: 180px !important; }
+	.paddingb190-sm{ padding-bottom: 190px !important; }
+	.paddingb200-sm{ padding-bottom: 200px !important; }
+	.paddingb210-sm{ padding-bottom: 210px !important; }
+	.paddingb220-sm{ padding-bottom: 220px !important; }
+	.paddingb230-sm{ padding-bottom: 230px !important; }
+	.paddingb240-sm{ padding-bottom: 240px !important; }
+	.paddingb250-sm{ padding-bottom: 250px !important; }
+}
+
+/* XS Mobile portrait*/
+/*@media only screen and (max-width : 480px){*/
+@media only screen and (max-width: 767px) {
+	.paddingb0-xs{ padding-bottom: 0px !important; }
+	.paddingb5-xs{ padding-bottom: 5px !important; }
+	.paddingb10-xs{ padding-bottom: 10px !important; }
+	.paddingb15-xs{ padding-bottom: 15px !important; }
+	.paddingb20-xs{ padding-bottom: 20px !important; }
+	.paddingb30-xs{ padding-bottom: 30px !important; }
+	.paddingb40-xs{ padding-bottom: 40px !important; }
+	.paddingb50-xs{ padding-bottom: 50px !important; }
+	.paddingb60-xs{ padding-bottom: 60px !important; }
+	.paddingb70-xs{ padding-bottom: 70px !important; }
+	.paddingb80-xs{ padding-bottom: 80px !important; }
+	.paddingb90-xs{ padding-bottom: 90px !important; }
+	.paddingb100-xs{ padding-bottom: 100px !important; }
+	.paddingb110-xs{ padding-bottom: 110px !important; }
+	.paddingb120-xs{ padding-bottom: 120px !important; }
+	.paddingb130-xs{ padding-bottom: 130px !important; }
+	.paddingb140-xs{ padding-bottom: 140px !important; }
+	.paddingb150-xs{ padding-bottom: 150px !important; }
+	.paddingb160-xs{ padding-bottom: 160px !important; }
+	.paddingb170-xs{ padding-bottom: 170px !important; }
+	.paddingb180-xs{ padding-bottom: 180px !important; }
+	.paddingb190-xs{ padding-bottom: 190px !important; }
+	.paddingb200-xs{ padding-bottom: 200px !important; }
+	.paddingb210-xs{ padding-bottom: 210px !important; }
+	.paddingb220-xs{ padding-bottom: 220px !important; }
+	.paddingb230-xs{ padding-bottom: 230px !important; }
+	.paddingb240-xs{ padding-bottom: 240px !important; }
+	.paddingb250-xs{ padding-bottom: 250px !important; }
+}
+
+/* XSL Mobile landscape*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.paddingb0-xsland{ padding-bottom: 0px !important; }
+	.paddingb5-xsland{ padding-bottom: 5px !important; }
+	.paddingb10-xsland{ padding-bottom: 10px !important; }
+	.paddingb15-xsland{ padding-bottom: 15px !important; }
+	.paddingb20-xsland{ padding-bottom: 20px !important; }
+	.paddingb30-xsland{ padding-bottom: 30px !important; }
+	.paddingb40-xsland{ padding-bottom: 40px !important; }
+	.paddingb50-xsland{ padding-bottom: 50px !important; }
+	.paddingb60-xsland{ padding-bottom: 60px !important; }
+	.paddingb70-xsland{ padding-bottom: 70px !important; }
+	.paddingb80-xsland{ padding-bottom: 80px !important; }
+	.paddingb90-xsland{ padding-bottom: 90px !important; }
+	.paddingb100-xsland{ padding-bottom: 100px !important; }
+	.paddingb110-xsland{ padding-bottom: 110px !important; }
+	.paddingb120-xsland{ padding-bottom: 120px !important; }
+	.paddingb130-xsland{ padding-bottom: 130px !important; }
+	.paddingb140-xsland{ padding-bottom: 140px !important; }
+	.paddingb150-xsland{ padding-bottom: 150px !important; }
+	.paddingb160-xsland{ padding-bottom: 160px !important; }
+	.paddingb170-xsland{ padding-bottom: 170px !important; }
+	.paddingb180-xsland{ padding-bottom: 180px !important; }
+	.paddingb190-xsland{ padding-bottom: 190px !important; }
+	.paddingb200-xsland{ padding-bottom: 200px !important; }
+	.paddingb210-xsland{ padding-bottom: 210px !important; }
+	.paddingb220-xsland{ padding-bottom: 220px !important; }
+	.paddingb230-xsland{ padding-bottom: 230px !important; }
+	.paddingb240-xsland{ padding-bottom: 240px !important; }
+	.paddingb250-xsland{ padding-bottom: 250px !important; }
+}

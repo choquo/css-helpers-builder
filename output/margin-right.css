@@ -1,0 +1,169 @@
+/* margin-right.css
+-----------------------------------------------------------------
+This file was generated automatically by CSS Helpers Builder Tool
+URI: https://github.com/choquo/css-helpers-builder
+Licence: https://github.com/choquo/css-helpers-builder/LICENSE
+About Licence: MIT (https://opensource.org/licenses/MIT)
+Author: Carlos Maldonado @choquo
+Build date: 2017-10-05
+*/
+
+.marginr0,.marginr0-lg{ margin-right: 0px !important; }
+.marginr5,.marginr5-lg{ margin-right: 5px !important; }
+.marginr10,.marginr10-lg{ margin-right: 10px !important; }
+.marginr15,.marginr15-lg{ margin-right: 15px !important; }
+.marginr20,.marginr20-lg{ margin-right: 20px !important; }
+.marginr30,.marginr30-lg{ margin-right: 30px !important; }
+.marginr40,.marginr40-lg{ margin-right: 40px !important; }
+.marginr50,.marginr50-lg{ margin-right: 50px !important; }
+.marginr60,.marginr60-lg{ margin-right: 60px !important; }
+.marginr70,.marginr70-lg{ margin-right: 70px !important; }
+.marginr80,.marginr80-lg{ margin-right: 80px !important; }
+.marginr90,.marginr90-lg{ margin-right: 90px !important; }
+.marginr100,.marginr100-lg{ margin-right: 100px !important; }
+.marginr110,.marginr110-lg{ margin-right: 110px !important; }
+.marginr120,.marginr120-lg{ margin-right: 120px !important; }
+.marginr130,.marginr130-lg{ margin-right: 130px !important; }
+.marginr140,.marginr140-lg{ margin-right: 140px !important; }
+.marginr150,.marginr150-lg{ margin-right: 150px !important; }
+.marginr160,.marginr160-lg{ margin-right: 160px !important; }
+.marginr170,.marginr170-lg{ margin-right: 170px !important; }
+.marginr180,.marginr180-lg{ margin-right: 180px !important; }
+.marginr190,.marginr190-lg{ margin-right: 190px !important; }
+.marginr200,.marginr200-lg{ margin-right: 200px !important; }
+.marginr210,.marginr210-lg{ margin-right: 210px !important; }
+.marginr220,.marginr220-lg{ margin-right: 220px !important; }
+.marginr230,.marginr230-lg{ margin-right: 230px !important; }
+.marginr240,.marginr240-lg{ margin-right: 240px !important; }
+.marginr250,.marginr250-lg{ margin-right: 250px !important; }
+
+/* MD Tablet, ipad portrait*/
+/*@media only screen and (max-width : 992px){*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { 
+	.marginr0-md{ margin-right: 0px !important; }
+	.marginr5-md{ margin-right: 5px !important; }
+	.marginr10-md{ margin-right: 10px !important; }
+	.marginr15-md{ margin-right: 15px !important; }
+	.marginr20-md{ margin-right: 20px !important; }
+	.marginr30-md{ margin-right: 30px !important; }
+	.marginr40-md{ margin-right: 40px !important; }
+	.marginr50-md{ margin-right: 50px !important; }
+	.marginr60-md{ margin-right: 60px !important; }
+	.marginr70-md{ margin-right: 70px !important; }
+	.marginr80-md{ margin-right: 80px !important; }
+	.marginr90-md{ margin-right: 90px !important; }
+	.marginr100-md{ margin-right: 100px !important; }
+	.marginr110-md{ margin-right: 110px !important; }
+	.marginr120-md{ margin-right: 120px !important; }
+	.marginr130-md{ margin-right: 130px !important; }
+	.marginr140-md{ margin-right: 140px !important; }
+	.marginr150-md{ margin-right: 150px !important; }
+	.marginr160-md{ margin-right: 160px !important; }
+	.marginr170-md{ margin-right: 170px !important; }
+	.marginr180-md{ margin-right: 180px !important; }
+	.marginr190-md{ margin-right: 190px !important; }
+	.marginr200-md{ margin-right: 200px !important; }
+	.marginr210-md{ margin-right: 210px !important; }
+	.marginr220-md{ margin-right: 220px !important; }
+	.marginr230-md{ margin-right: 230px !important; }
+	.marginr240-md{ margin-right: 240px !important; }
+	.marginr250-md{ margin-right: 250px !important; }
+}
+
+/* SM Tablet, ipad landscape*/ 
+/*@media only screen and (max-width : 768px){*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.marginr0-sm{ margin-right: 0px !important; }
+	.marginr5-sm{ margin-right: 5px !important; }
+	.marginr10-sm{ margin-right: 10px !important; }
+	.marginr15-sm{ margin-right: 15px !important; }
+	.marginr20-sm{ margin-right: 20px !important; }
+	.marginr30-sm{ margin-right: 30px !important; }
+	.marginr40-sm{ margin-right: 40px !important; }
+	.marginr50-sm{ margin-right: 50px !important; }
+	.marginr60-sm{ margin-right: 60px !important; }
+	.marginr70-sm{ margin-right: 70px !important; }
+	.marginr80-sm{ margin-right: 80px !important; }
+	.marginr90-sm{ margin-right: 90px !important; }
+	.marginr100-sm{ margin-right: 100px !important; }
+	.marginr110-sm{ margin-right: 110px !important; }
+	.marginr120-sm{ margin-right: 120px !important; }
+	.marginr130-sm{ margin-right: 130px !important; }
+	.marginr140-sm{ margin-right: 140px !important; }
+	.marginr150-sm{ margin-right: 150px !important; }
+	.marginr160-sm{ margin-right: 160px !important; }
+	.marginr170-sm{ margin-right: 170px !important; }
+	.marginr180-sm{ margin-right: 180px !important; }
+	.marginr190-sm{ margin-right: 190px !important; }
+	.marginr200-sm{ margin-right: 200px !important; }
+	.marginr210-sm{ margin-right: 210px !important; }
+	.marginr220-sm{ margin-right: 220px !important; }
+	.marginr230-sm{ margin-right: 230px !important; }
+	.marginr240-sm{ margin-right: 240px !important; }
+	.marginr250-sm{ margin-right: 250px !important; }
+}
+
+/* XS Mobile portrait*/
+/*@media only screen and (max-width : 480px){*/
+@media only screen and (max-width: 767px) {
+	.marginr0-xs{ margin-right: 0px !important; }
+	.marginr5-xs{ margin-right: 5px !important; }
+	.marginr10-xs{ margin-right: 10px !important; }
+	.marginr15-xs{ margin-right: 15px !important; }
+	.marginr20-xs{ margin-right: 20px !important; }
+	.marginr30-xs{ margin-right: 30px !important; }
+	.marginr40-xs{ margin-right: 40px !important; }
+	.marginr50-xs{ margin-right: 50px !important; }
+	.marginr60-xs{ margin-right: 60px !important; }
+	.marginr70-xs{ margin-right: 70px !important; }
+	.marginr80-xs{ margin-right: 80px !important; }
+	.marginr90-xs{ margin-right: 90px !important; }
+	.marginr100-xs{ margin-right: 100px !important; }
+	.marginr110-xs{ margin-right: 110px !important; }
+	.marginr120-xs{ margin-right: 120px !important; }
+	.marginr130-xs{ margin-right: 130px !important; }
+	.marginr140-xs{ margin-right: 140px !important; }
+	.marginr150-xs{ margin-right: 150px !important; }
+	.marginr160-xs{ margin-right: 160px !important; }
+	.marginr170-xs{ margin-right: 170px !important; }
+	.marginr180-xs{ margin-right: 180px !important; }
+	.marginr190-xs{ margin-right: 190px !important; }
+	.marginr200-xs{ margin-right: 200px !important; }
+	.marginr210-xs{ margin-right: 210px !important; }
+	.marginr220-xs{ margin-right: 220px !important; }
+	.marginr230-xs{ margin-right: 230px !important; }
+	.marginr240-xs{ margin-right: 240px !important; }
+	.marginr250-xs{ margin-right: 250px !important; }
+}
+
+/* XSL Mobile landscape*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.marginr0-xsland{ margin-right: 0px !important; }
+	.marginr5-xsland{ margin-right: 5px !important; }
+	.marginr10-xsland{ margin-right: 10px !important; }
+	.marginr15-xsland{ margin-right: 15px !important; }
+	.marginr20-xsland{ margin-right: 20px !important; }
+	.marginr30-xsland{ margin-right: 30px !important; }
+	.marginr40-xsland{ margin-right: 40px !important; }
+	.marginr50-xsland{ margin-right: 50px !important; }
+	.marginr60-xsland{ margin-right: 60px !important; }
+	.marginr70-xsland{ margin-right: 70px !important; }
+	.marginr80-xsland{ margin-right: 80px !important; }
+	.marginr90-xsland{ margin-right: 90px !important; }
+	.marginr100-xsland{ margin-right: 100px !important; }
+	.marginr110-xsland{ margin-right: 110px !important; }
+	.marginr120-xsland{ margin-right: 120px !important; }
+	.marginr130-xsland{ margin-right: 130px !important; }
+	.marginr140-xsland{ margin-right: 140px !important; }
+	.marginr150-xsland{ margin-right: 150px !important; }
+	.marginr160-xsland{ margin-right: 160px !important; }
+	.marginr170-xsland{ margin-right: 170px !important; }
+	.marginr180-xsland{ margin-right: 180px !important; }
+	.marginr190-xsland{ margin-right: 190px !important; }
+	.marginr200-xsland{ margin-right: 200px !important; }
+	.marginr210-xsland{ margin-right: 210px !important; }
+	.marginr220-xsland{ margin-right: 220px !important; }
+	.marginr230-xsland{ margin-right: 230px !important; }
+	.marginr240-xsland{ margin-right: 240px !important; }
+	.marginr250-xsland{ margin-right: 250px !important; }
+}

@@ -1,0 +1,169 @@
+/* margin-top.css
+-----------------------------------------------------------------
+This file was generated automatically by CSS Helpers Builder Tool
+URI: https://github.com/choquo/css-helpers-builder
+Licence: https://github.com/choquo/css-helpers-builder/LICENSE
+About Licence: MIT (https://opensource.org/licenses/MIT)
+Author: Carlos Maldonado @choquo
+Build date: 2017-10-05
+*/
+
+.margint0,.margint0-lg{ margin-top: 0px !important; }
+.margint5,.margint5-lg{ margin-top: 5px !important; }
+.margint10,.margint10-lg{ margin-top: 10px !important; }
+.margint15,.margint15-lg{ margin-top: 15px !important; }
+.margint20,.margint20-lg{ margin-top: 20px !important; }
+.margint30,.margint30-lg{ margin-top: 30px !important; }
+.margint40,.margint40-lg{ margin-top: 40px !important; }
+.margint50,.margint50-lg{ margin-top: 50px !important; }
+.margint60,.margint60-lg{ margin-top: 60px !important; }
+.margint70,.margint70-lg{ margin-top: 70px !important; }
+.margint80,.margint80-lg{ margin-top: 80px !important; }
+.margint90,.margint90-lg{ margin-top: 90px !important; }
+.margint100,.margint100-lg{ margin-top: 100px !important; }
+.margint110,.margint110-lg{ margin-top: 110px !important; }
+.margint120,.margint120-lg{ margin-top: 120px !important; }
+.margint130,.margint130-lg{ margin-top: 130px !important; }
+.margint140,.margint140-lg{ margin-top: 140px !important; }
+.margint150,.margint150-lg{ margin-top: 150px !important; }
+.margint160,.margint160-lg{ margin-top: 160px !important; }
+.margint170,.margint170-lg{ margin-top: 170px !important; }
+.margint180,.margint180-lg{ margin-top: 180px !important; }
+.margint190,.margint190-lg{ margin-top: 190px !important; }
+.margint200,.margint200-lg{ margin-top: 200px !important; }
+.margint210,.margint210-lg{ margin-top: 210px !important; }
+.margint220,.margint220-lg{ margin-top: 220px !important; }
+.margint230,.margint230-lg{ margin-top: 230px !important; }
+.margint240,.margint240-lg{ margin-top: 240px !important; }
+.margint250,.margint250-lg{ margin-top: 250px !important; }
+
+/* MD Tablet, ipad portrait*/
+/*@media only screen and (max-width : 992px){*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { 
+	.margint0-md{ margin-top: 0px !important; }
+	.margint5-md{ margin-top: 5px !important; }
+	.margint10-md{ margin-top: 10px !important; }
+	.margint15-md{ margin-top: 15px !important; }
+	.margint20-md{ margin-top: 20px !important; }
+	.margint30-md{ margin-top: 30px !important; }
+	.margint40-md{ margin-top: 40px !important; }
+	.margint50-md{ margin-top: 50px !important; }
+	.margint60-md{ margin-top: 60px !important; }
+	.margint70-md{ margin-top: 70px !important; }
+	.margint80-md{ margin-top: 80px !important; }
+	.margint90-md{ margin-top: 90px !important; }
+	.margint100-md{ margin-top: 100px !important; }
+	.margint110-md{ margin-top: 110px !important; }
+	.margint120-md{ margin-top: 120px !important; }
+	.margint130-md{ margin-top: 130px !important; }
+	.margint140-md{ margin-top: 140px !important; }
+	.margint150-md{ margin-top: 150px !important; }
+	.margint160-md{ margin-top: 160px !important; }
+	.margint170-md{ margin-top: 170px !important; }
+	.margint180-md{ margin-top: 180px !important; }
+	.margint190-md{ margin-top: 190px !important; }
+	.margint200-md{ margin-top: 200px !important; }
+	.margint210-md{ margin-top: 210px !important; }
+	.margint220-md{ margin-top: 220px !important; }
+	.margint230-md{ margin-top: 230px !important; }
+	.margint240-md{ margin-top: 240px !important; }
+	.margint250-md{ margin-top: 250px !important; }
+}
+
+/* SM Tablet, ipad landscape*/ 
+/*@media only screen and (max-width : 768px){*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.margint0-sm{ margin-top: 0px !important; }
+	.margint5-sm{ margin-top: 5px !important; }
+	.margint10-sm{ margin-top: 10px !important; }
+	.margint15-sm{ margin-top: 15px !important; }
+	.margint20-sm{ margin-top: 20px !important; }
+	.margint30-sm{ margin-top: 30px !important; }
+	.margint40-sm{ margin-top: 40px !important; }
+	.margint50-sm{ margin-top: 50px !important; }
+	.margint60-sm{ margin-top: 60px !important; }
+	.margint70-sm{ margin-top: 70px !important; }
+	.margint80-sm{ margin-top: 80px !important; }
+	.margint90-sm{ margin-top: 90px !important; }
+	.margint100-sm{ margin-top: 100px !important; }
+	.margint110-sm{ margin-top: 110px !important; }
+	.margint120-sm{ margin-top: 120px !important; }
+	.margint130-sm{ margin-top: 130px !important; }
+	.margint140-sm{ margin-top: 140px !important; }
+	.margint150-sm{ margin-top: 150px !important; }
+	.margint160-sm{ margin-top: 160px !important; }
+	.margint170-sm{ margin-top: 170px !important; }
+	.margint180-sm{ margin-top: 180px !important; }
+	.margint190-sm{ margin-top: 190px !important; }
+	.margint200-sm{ margin-top: 200px !important; }
+	.margint210-sm{ margin-top: 210px !important; }
+	.margint220-sm{ margin-top: 220px !important; }
+	.margint230-sm{ margin-top: 230px !important; }
+	.margint240-sm{ margin-top: 240px !important; }
+	.margint250-sm{ margin-top: 250px !important; }
+}
+
+/* XS Mobile portrait*/
+/*@media only screen and (max-width : 480px){*/
+@media only screen and (max-width: 767px) {
+	.margint0-xs{ margin-top: 0px !important; }
+	.margint5-xs{ margin-top: 5px !important; }
+	.margint10-xs{ margin-top: 10px !important; }
+	.margint15-xs{ margin-top: 15px !important; }
+	.margint20-xs{ margin-top: 20px !important; }
+	.margint30-xs{ margin-top: 30px !important; }
+	.margint40-xs{ margin-top: 40px !important; }
+	.margint50-xs{ margin-top: 50px !important; }
+	.margint60-xs{ margin-top: 60px !important; }
+	.margint70-xs{ margin-top: 70px !important; }
+	.margint80-xs{ margin-top: 80px !important; }
+	.margint90-xs{ margin-top: 90px !important; }
+	.margint100-xs{ margin-top: 100px !important; }
+	.margint110-xs{ margin-top: 110px !important; }
+	.margint120-xs{ margin-top: 120px !important; }
+	.margint130-xs{ margin-top: 130px !important; }
+	.margint140-xs{ margin-top: 140px !important; }
+	.margint150-xs{ margin-top: 150px !important; }
+	.margint160-xs{ margin-top: 160px !important; }
+	.margint170-xs{ margin-top: 170px !important; }
+	.margint180-xs{ margin-top: 180px !important; }
+	.margint190-xs{ margin-top: 190px !important; }
+	.margint200-xs{ margin-top: 200px !important; }
+	.margint210-xs{ margin-top: 210px !important; }
+	.margint220-xs{ margin-top: 220px !important; }
+	.margint230-xs{ margin-top: 230px !important; }
+	.margint240-xs{ margin-top: 240px !important; }
+	.margint250-xs{ margin-top: 250px !important; }
+}
+
+/* XSL Mobile landscape*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.margint0-xsland{ margin-top: 0px !important; }
+	.margint5-xsland{ margin-top: 5px !important; }
+	.margint10-xsland{ margin-top: 10px !important; }
+	.margint15-xsland{ margin-top: 15px !important; }
+	.margint20-xsland{ margin-top: 20px !important; }
+	.margint30-xsland{ margin-top: 30px !important; }
+	.margint40-xsland{ margin-top: 40px !important; }
+	.margint50-xsland{ margin-top: 50px !important; }
+	.margint60-xsland{ margin-top: 60px !important; }
+	.margint70-xsland{ margin-top: 70px !important; }
+	.margint80-xsland{ margin-top: 80px !important; }
+	.margint90-xsland{ margin-top: 90px !important; }
+	.margint100-xsland{ margin-top: 100px !important; }
+	.margint110-xsland{ margin-top: 110px !important; }
+	.margint120-xsland{ margin-top: 120px !important; }
+	.margint130-xsland{ margin-top: 130px !important; }
+	.margint140-xsland{ margin-top: 140px !important; }
+	.margint150-xsland{ margin-top: 150px !important; }
+	.margint160-xsland{ margin-top: 160px !important; }
+	.margint170-xsland{ margin-top: 170px !important; }
+	.margint180-xsland{ margin-top: 180px !important; }
+	.margint190-xsland{ margin-top: 190px !important; }
+	.margint200-xsland{ margin-top: 200px !important; }
+	.margint210-xsland{ margin-top: 210px !important; }
+	.margint220-xsland{ margin-top: 220px !important; }
+	.margint230-xsland{ margin-top: 230px !important; }
+	.margint240-xsland{ margin-top: 240px !important; }
+	.margint250-xsland{ margin-top: 250px !important; }
+}

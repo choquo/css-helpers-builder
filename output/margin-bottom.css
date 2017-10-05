@@ -1,0 +1,169 @@
+/* margin-bottom.css
+-----------------------------------------------------------------
+This file was generated automatically by CSS Helpers Builder Tool
+URI: https://github.com/choquo/css-helpers-builder
+Licence: https://github.com/choquo/css-helpers-builder/LICENSE
+About Licence: MIT (https://opensource.org/licenses/MIT)
+Author: Carlos Maldonado @choquo
+Build date: 2017-10-05
+*/
+
+.marginb0,.marginb0-lg{ margin-bottom: 0px !important; }
+.marginb5,.marginb5-lg{ margin-bottom: 5px !important; }
+.marginb10,.marginb10-lg{ margin-bottom: 10px !important; }
+.marginb15,.marginb15-lg{ margin-bottom: 15px !important; }
+.marginb20,.marginb20-lg{ margin-bottom: 20px !important; }
+.marginb30,.marginb30-lg{ margin-bottom: 30px !important; }
+.marginb40,.marginb40-lg{ margin-bottom: 40px !important; }
+.marginb50,.marginb50-lg{ margin-bottom: 50px !important; }
+.marginb60,.marginb60-lg{ margin-bottom: 60px !important; }
+.marginb70,.marginb70-lg{ margin-bottom: 70px !important; }
+.marginb80,.marginb80-lg{ margin-bottom: 80px !important; }
+.marginb90,.marginb90-lg{ margin-bottom: 90px !important; }
+.marginb100,.marginb100-lg{ margin-bottom: 100px !important; }
+.marginb110,.marginb110-lg{ margin-bottom: 110px !important; }
+.marginb120,.marginb120-lg{ margin-bottom: 120px !important; }
+.marginb130,.marginb130-lg{ margin-bottom: 130px !important; }
+.marginb140,.marginb140-lg{ margin-bottom: 140px !important; }
+.marginb150,.marginb150-lg{ margin-bottom: 150px !important; }
+.marginb160,.marginb160-lg{ margin-bottom: 160px !important; }
+.marginb170,.marginb170-lg{ margin-bottom: 170px !important; }
+.marginb180,.marginb180-lg{ margin-bottom: 180px !important; }
+.marginb190,.marginb190-lg{ margin-bottom: 190px !important; }
+.marginb200,.marginb200-lg{ margin-bottom: 200px !important; }
+.marginb210,.marginb210-lg{ margin-bottom: 210px !important; }
+.marginb220,.marginb220-lg{ margin-bottom: 220px !important; }
+.marginb230,.marginb230-lg{ margin-bottom: 230px !important; }
+.marginb240,.marginb240-lg{ margin-bottom: 240px !important; }
+.marginb250,.marginb250-lg{ margin-bottom: 250px !important; }
+
+/* MD Tablet, ipad portrait*/
+/*@media only screen and (max-width : 992px){*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { 
+	.marginb0-md{ margin-bottom: 0px !important; }
+	.marginb5-md{ margin-bottom: 5px !important; }
+	.marginb10-md{ margin-bottom: 10px !important; }
+	.marginb15-md{ margin-bottom: 15px !important; }
+	.marginb20-md{ margin-bottom: 20px !important; }
+	.marginb30-md{ margin-bottom: 30px !important; }
+	.marginb40-md{ margin-bottom: 40px !important; }
+	.marginb50-md{ margin-bottom: 50px !important; }
+	.marginb60-md{ margin-bottom: 60px !important; }
+	.marginb70-md{ margin-bottom: 70px !important; }
+	.marginb80-md{ margin-bottom: 80px !important; }
+	.marginb90-md{ margin-bottom: 90px !important; }
+	.marginb100-md{ margin-bottom: 100px !important; }
+	.marginb110-md{ margin-bottom: 110px !important; }
+	.marginb120-md{ margin-bottom: 120px !important; }
+	.marginb130-md{ margin-bottom: 130px !important; }
+	.marginb140-md{ margin-bottom: 140px !important; }
+	.marginb150-md{ margin-bottom: 150px !important; }
+	.marginb160-md{ margin-bottom: 160px !important; }
+	.marginb170-md{ margin-bottom: 170px !important; }
+	.marginb180-md{ margin-bottom: 180px !important; }
+	.marginb190-md{ margin-bottom: 190px !important; }
+	.marginb200-md{ margin-bottom: 200px !important; }
+	.marginb210-md{ margin-bottom: 210px !important; }
+	.marginb220-md{ margin-bottom: 220px !important; }
+	.marginb230-md{ margin-bottom: 230px !important; }
+	.marginb240-md{ margin-bottom: 240px !important; }
+	.marginb250-md{ margin-bottom: 250px !important; }
+}
+
+/* SM Tablet, ipad landscape*/ 
+/*@media only screen and (max-width : 768px){*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.marginb0-sm{ margin-bottom: 0px !important; }
+	.marginb5-sm{ margin-bottom: 5px !important; }
+	.marginb10-sm{ margin-bottom: 10px !important; }
+	.marginb15-sm{ margin-bottom: 15px !important; }
+	.marginb20-sm{ margin-bottom: 20px !important; }
+	.marginb30-sm{ margin-bottom: 30px !important; }
+	.marginb40-sm{ margin-bottom: 40px !important; }
+	.marginb50-sm{ margin-bottom: 50px !important; }
+	.marginb60-sm{ margin-bottom: 60px !important; }
+	.marginb70-sm{ margin-bottom: 70px !important; }
+	.marginb80-sm{ margin-bottom: 80px !important; }
+	.marginb90-sm{ margin-bottom: 90px !important; }
+	.marginb100-sm{ margin-bottom: 100px !important; }
+	.marginb110-sm{ margin-bottom: 110px !important; }
+	.marginb120-sm{ margin-bottom: 120px !important; }
+	.marginb130-sm{ margin-bottom: 130px !important; }
+	.marginb140-sm{ margin-bottom: 140px !important; }
+	.marginb150-sm{ margin-bottom: 150px !important; }
+	.marginb160-sm{ margin-bottom: 160px !important; }
+	.marginb170-sm{ margin-bottom: 170px !important; }
+	.marginb180-sm{ margin-bottom: 180px !important; }
+	.marginb190-sm{ margin-bottom: 190px !important; }
+	.marginb200-sm{ margin-bottom: 200px !important; }
+	.marginb210-sm{ margin-bottom: 210px !important; }
+	.marginb220-sm{ margin-bottom: 220px !important; }
+	.marginb230-sm{ margin-bottom: 230px !important; }
+	.marginb240-sm{ margin-bottom: 240px !important; }
+	.marginb250-sm{ margin-bottom: 250px !important; }
+}
+
+/* XS Mobile portrait*/
+/*@media only screen and (max-width : 480px){*/
+@media only screen and (max-width: 767px) {
+	.marginb0-xs{ margin-bottom: 0px !important; }
+	.marginb5-xs{ margin-bottom: 5px !important; }
+	.marginb10-xs{ margin-bottom: 10px !important; }
+	.marginb15-xs{ margin-bottom: 15px !important; }
+	.marginb20-xs{ margin-bottom: 20px !important; }
+	.marginb30-xs{ margin-bottom: 30px !important; }
+	.marginb40-xs{ margin-bottom: 40px !important; }
+	.marginb50-xs{ margin-bottom: 50px !important; }
+	.marginb60-xs{ margin-bottom: 60px !important; }
+	.marginb70-xs{ margin-bottom: 70px !important; }
+	.marginb80-xs{ margin-bottom: 80px !important; }
+	.marginb90-xs{ margin-bottom: 90px !important; }
+	.marginb100-xs{ margin-bottom: 100px !important; }
+	.marginb110-xs{ margin-bottom: 110px !important; }
+	.marginb120-xs{ margin-bottom: 120px !important; }
+	.marginb130-xs{ margin-bottom: 130px !important; }
+	.marginb140-xs{ margin-bottom: 140px !important; }
+	.marginb150-xs{ margin-bottom: 150px !important; }
+	.marginb160-xs{ margin-bottom: 160px !important; }
+	.marginb170-xs{ margin-bottom: 170px !important; }
+	.marginb180-xs{ margin-bottom: 180px !important; }
+	.marginb190-xs{ margin-bottom: 190px !important; }
+	.marginb200-xs{ margin-bottom: 200px !important; }
+	.marginb210-xs{ margin-bottom: 210px !important; }
+	.marginb220-xs{ margin-bottom: 220px !important; }
+	.marginb230-xs{ margin-bottom: 230px !important; }
+	.marginb240-xs{ margin-bottom: 240px !important; }
+	.marginb250-xs{ margin-bottom: 250px !important; }
+}
+
+/* XSL Mobile landscape*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.marginb0-xsland{ margin-bottom: 0px !important; }
+	.marginb5-xsland{ margin-bottom: 5px !important; }
+	.marginb10-xsland{ margin-bottom: 10px !important; }
+	.marginb15-xsland{ margin-bottom: 15px !important; }
+	.marginb20-xsland{ margin-bottom: 20px !important; }
+	.marginb30-xsland{ margin-bottom: 30px !important; }
+	.marginb40-xsland{ margin-bottom: 40px !important; }
+	.marginb50-xsland{ margin-bottom: 50px !important; }
+	.marginb60-xsland{ margin-bottom: 60px !important; }
+	.marginb70-xsland{ margin-bottom: 70px !important; }
+	.marginb80-xsland{ margin-bottom: 80px !important; }
+	.marginb90-xsland{ margin-bottom: 90px !important; }
+	.marginb100-xsland{ margin-bottom: 100px !important; }
+	.marginb110-xsland{ margin-bottom: 110px !important; }
+	.marginb120-xsland{ margin-bottom: 120px !important; }
+	.marginb130-xsland{ margin-bottom: 130px !important; }
+	.marginb140-xsland{ margin-bottom: 140px !important; }
+	.marginb150-xsland{ margin-bottom: 150px !important; }
+	.marginb160-xsland{ margin-bottom: 160px !important; }
+	.marginb170-xsland{ margin-bottom: 170px !important; }
+	.marginb180-xsland{ margin-bottom: 180px !important; }
+	.marginb190-xsland{ margin-bottom: 190px !important; }
+	.marginb200-xsland{ margin-bottom: 200px !important; }
+	.marginb210-xsland{ margin-bottom: 210px !important; }
+	.marginb220-xsland{ margin-bottom: 220px !important; }
+	.marginb230-xsland{ margin-bottom: 230px !important; }
+	.marginb240-xsland{ margin-bottom: 240px !important; }
+	.marginb250-xsland{ margin-bottom: 250px !important; }
+}
