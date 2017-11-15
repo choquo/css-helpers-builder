@@ -194,9 +194,9 @@ $property_name = isset($_GET['property_name'])?$_GET['property_name']:'margin-to
 $lg_output .= '/* '.$_GET['filename'].'
 -----------------------------------------------------------------
 This file was generated automatically by CSS Helpers Builder Tool
-URI: https://github.com/choquo/css-helpers-builder
-Licence: https://github.com/choquo/css-helpers-builder/LICENSE
-About Licence: MIT (https://opensource.org/licenses/MIT)
+Demo: http://develus.com/github/css-helpers-builder/
+Github: https://github.com/choquo/css-helpers-builder
+Licence: MIT https://github.com/choquo/css-helpers-builder/blob/master/LICENSE
 Author: Carlos Maldonado @choquo
 Build date: '.date("Y-m-d").'
 */'.PHP_EOL.PHP_EOL;
